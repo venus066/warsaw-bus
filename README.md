@@ -1,8 +1,7 @@
 # Warsaw Bus Analytic Tools
 
 Python package implementing fetching, computation and visualisation of data
-related to Warsaw public bus transit. Implemented as a final project for
-NYPD classes at University of Warsaw, February 2020.
+related to Warsaw public bus transit.
 
 ## Fetching
 
